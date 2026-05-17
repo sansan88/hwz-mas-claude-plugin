@@ -8,7 +8,7 @@ Claude Code Plugin-Marketplace für das **MAS an der HWZ Zürich**. Wachsende Sa
 
 | | |
 |---|---|
-| **Marketplace** | `kommunikation-hwz-marketplace` |
+| **Marketplace** | `hwz-mas-marketplace` |
 | **Repository** | `sansan88/hwz-mas-claude-plugin` |
 
 ## Installation
@@ -33,7 +33,7 @@ Alternativ über die volle URL oder einen lokalen Klon-Pfad:
 ### 2. Plugin installieren
 
 ```
-/plugin install kommunikation-hwz@kommunikation-hwz-marketplace
+/plugin install kommunikation-hwz@hwz-mas-marketplace
 ```
 
 Oder interaktiv über das Menü:
@@ -42,7 +42,7 @@ Oder interaktiv über das Menü:
 /plugin
 ```
 
-→ *Browse marketplaces* → `kommunikation-hwz-marketplace` → `kommunikation-hwz` → **Install**.
+→ *Browse marketplaces* → `hwz-mas-marketplace` → `kommunikation-hwz` → **Install**.
 
 ### 3. Aktivierung prüfen
 
@@ -55,8 +55,8 @@ Nach der Installation stehen die Slash-Commands und Skills sofort zur Verfügung
 ### Aktualisieren / Entfernen
 
 ```
-/plugin marketplace update kommunikation-hwz-marketplace
-/plugin uninstall kommunikation-hwz@kommunikation-hwz-marketplace
+/plugin marketplace update hwz-mas-marketplace
+/plugin uninstall kommunikation-hwz@hwz-mas-marketplace
 ```
 
 ## Inhalt

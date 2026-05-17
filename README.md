@@ -1,12 +1,15 @@
-# hwz-mas-kommunikation-claude-plugin
+# hwz-mas-claude-plugin
 
-Claude Code Plugin-Marketplace mit Skills aus dem **CAS Consulting & Communication an der HWZ Zürich**. Jeder Skill operationalisiert eine konkrete Methode aus dem Studium für die Analyse und Gestaltung von Kommunikation im Alltag — Verhandlung, Konflikt, Gewaltfreie Kommunikation, 4-Ohren-Modell, Interkulturelles, Wertequadrat/Systemisch, Rhetorik.
+Claude Code Plugin-Marketplace für das **MAS an der HWZ Zürich**. Wachsende Sammlung von Plugins, die Methoden aus dem Studium in tagestaugliche Werkzeuge übersetzen. Weitere Plugins (z. B. Innovation, Change Management) folgen.
+
+**Aktuell verfügbar:**
+
+- **`kommunikation-hwz`** — Skills aus dem CAS Consulting & Communication: Verhandlung, Konflikt, Gewaltfreie Kommunikation, 4-Ohren-Modell, Interkulturelles, Wertequadrat/Systemisch, Rhetorik.
 
 | | |
 |---|---|
 | **Marketplace** | `kommunikation-hwz-marketplace` |
-| **Plugin** | `kommunikation-hwz` |
-| **Repository** | `sansan88/hwz-mas-kommunikation-claude-plugin` |
+| **Repository** | `sansan88/hwz-mas-claude-plugin` |
 
 ## Installation
 
@@ -17,13 +20,13 @@ Führe die folgenden Befehle in einer Claude-Code-Session aus.
 Direkt von GitHub:
 
 ```
-/plugin marketplace add sansan88/hwz-mas-kommunikation-claude-plugin
+/plugin marketplace add sansan88/hwz-mas-claude-plugin
 ```
 
 Alternativ über die volle URL oder einen lokalen Klon-Pfad:
 
 ```
-/plugin marketplace add https://github.com/sansan88/hwz-mas-kommunikation-claude-plugin
+/plugin marketplace add https://github.com/sansan88/hwz-mas-claude-plugin
 /plugin marketplace add /pfad/zum/lokalen/klon
 ```
 

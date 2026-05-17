@@ -1,0 +1,13 @@
+{
+  "name": "kommunikation-hwz-marketplace",
+  "owner": {
+    "name": "Sandro"
+  },
+  "plugins": [
+    {
+      "name": "kommunikation-hwz",
+      "source": "./kommunikation-hwz",
+      "description": "Skills aus dem CAS Consulting & Communication an der HWZ — Verhandlung Harvard, Konfliktanalyse, NVC, 4-Ohren, Interkulturell, Wertequadrat, Rhetorik."
+    }
+  ]
+}

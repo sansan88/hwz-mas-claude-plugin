@@ -1,0 +1,21 @@
+{
+  "name": "kommunikation-hwz",
+  "version": "0.1.0",
+  "description": "Skills basierend auf Sandros CAS Consulting & Communication an der HWZ Zürich. Jeder Skill operationalisiert eine konkrete Methode aus dem Studium für die Analyse und Gestaltung von Kommunikation im Alltag — Verhandlung, Konflikt, Gewaltfreie Kommunikation, 4-Ohren-Modell, Interkulturelles, Wertequadrat/Systemisch, Rhetorik. Anwendung typischerweise auf E-Mails, Chats, Social-Media-Nachrichten oder anstehende Gespräche.",
+  "author": {
+    "name": "Sandro"
+  },
+  "keywords": [
+    "hwz",
+    "kommunikation",
+    "konflikt",
+    "verhandlung",
+    "gfk",
+    "rosenberg",
+    "schulz-von-thun",
+    "harvard",
+    "rhetorik",
+    "interkulturell",
+    "systemisch"
+  ]
+}
